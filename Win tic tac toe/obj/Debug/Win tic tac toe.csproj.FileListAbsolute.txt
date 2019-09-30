@@ -1,0 +1,10 @@
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\bin\Debug\Win tic tac toe.exe.config
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\bin\Debug\Win tic tac toe.exe
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\bin\Debug\Win tic tac toe.pdb
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win_tic_tac_toe.Form1.resources
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win_tic_tac_toe.Properties.Resources.resources
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win tic tac toe.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win tic tac toe.exe
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win tic tac toe.pdb
+C:\Users\Alan\source\repos\Win tic tac toe\Win tic tac toe\obj\Debug\Win tic tac toe.csprojAssemblyReference.cache
